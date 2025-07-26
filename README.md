@@ -40,3 +40,11 @@ A lightweight, deployable model that flags high‑risk cancellations in real tim
 ---
 
 *Feel free to explore the Jupyter notebooks and scripts in this repo to follow each step of the process.*  
+
+## ⚠️ Requirements
+
+🐍 Python 3.10 is required for TensorFlow compatibility
+
+💡 It's recommended to create a dedicated virtual environment for TensorFlow
+
+📓 The virtual environment can be added as a Jupyter Notebook kernel for seamless use
